@@ -1,6 +1,6 @@
 # Hello there, I'm l3lackMegas 👋
 
-My name is Jaruwat Pohong, and wanna be a Web Developer(?).
+My name is Jaruwat Pohong. I'm a Web Developer.
 
 Actually I am a student in Computer Science who would like to do anything about web design and frontend development.
 
