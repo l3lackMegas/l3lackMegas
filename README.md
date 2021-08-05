@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hello there, I'm l3lackMegas 👋
 
-<!--
-**l3lackMegas/l3lackMegas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Jaruwat Pohong, and wanna be a Web Developer(?).
 
-Here are some ideas to get you started:
+Actually I am a student in Computer Science who would like to do anything about web design and frontend development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I usually play video games, listen to music and coding my mini project.
+
+## If you like cat, We're best friend!
+![Gentle Cat](https://cdn.discordapp.com/attachments/763741870936293426/872741575288053790/2Q.png)
+- I’m currently working as freelance.
+- My email is jaruwat.is@fucking-thai.dev.
+- Check out my poor website here https://jaruwat.fucking-thai.dev.
