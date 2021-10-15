@@ -12,4 +12,4 @@ I usually play video games, listen to music and coding my mini projects.
 
 - I’m currently working as freelancer.
 - My email is jaruwat.is@fucking-thai.dev.
-- Check out my poor website here https://jaruwat.fucking-thai.dev.
+- Check out my poor website here https://jaruwat.dev.
