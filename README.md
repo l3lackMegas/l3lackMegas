@@ -11,5 +11,5 @@ I usually play video games, listen to music and coding my mini projects.
 ![Gentle Cat](https://cdn.discordapp.com/attachments/763741870936293426/872741575288053790/2Q.png)
 
 - I’m currently working as freelancer.
-- My email is jaruwat.is@fucking-thai.dev.
+- My email is contact@jaruwat.dev.
 - Check out my poor website here https://jaruwat.dev.
