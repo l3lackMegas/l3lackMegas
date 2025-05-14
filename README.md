@@ -10,6 +10,6 @@ I usually play video games, listen to music and coding my mini project.
 
 ![Typing Cat](https://raw.githubusercontent.com/l3lackMegas/l3lackMegas/main/cat.gif)
 
-- I’m currently working as a Developer at Orisma Techonology.
+- I’m currently working as a Freelance.
 - Contact me via contact@jaruwat.dev.
 - My poor website here https://jaruwat.dev.
